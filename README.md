@@ -154,9 +154,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedfurkan&layout=compact&theme=algolia" alt="muhammedfurkan" /></a> </p>
 
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedfurkan&langs_count=10&&layout=compact)](https://github.com/muhammedfurkan/github-readme-stats)
 
 -----
 Credits: [muhammedfurkan](https://github.com/muhammedfurkan)
