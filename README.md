@@ -19,7 +19,7 @@
 ## :sassy_man:  About me
 - :school: I graduated from Istanbul University Control and Automation and Kahramanmaraş Sütçü İmam University  I am Electricial and Electronics Engineer.
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Computer Science`, `Software Developer`, `Embedded Systems`, `Electronic Designer` and `Database`.
+- :student: I’m currently learning: `Computer Science`, `Software Developer`, `Embedded Systems`, `Electronic Designer`, `Backend Developer` and `Database`.
 - :thinking: I’m currently open for: `A Software Developer | Embedded Software Engineer ` or a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/muhammed-furkan-ersoy-/).
 - :nerd_face: Always `learning new things` 🥰
 
