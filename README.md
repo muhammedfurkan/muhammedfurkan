@@ -142,10 +142,6 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/muhammedfurkan"><img alt="muhammedfurkan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammedfurkan&custom_title=muhammedfurkan's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 
 <br/>
@@ -158,4 +154,4 @@
 -----
 Credits: [muhammedfurkan](https://github.com/muhammedfurkan)
 
-Last Edited on: 05/05/2022
+Last Edited on: 28/06/2022
